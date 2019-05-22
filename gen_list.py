@@ -1,6 +1,6 @@
 import numpy as np
 
-exportString = np.arange(0, 100, 1)
+exportString = np.arange(0, 100, 0.1)
 exportList = []
 
 for i in exportString:
