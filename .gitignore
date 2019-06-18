@@ -1,3 +1,5 @@
 # Working git ignore file
 
 *.xlsx
+*.xlsm
+*.csv
